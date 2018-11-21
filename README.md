@@ -9,4 +9,4 @@
 ## Deployment
 	This is a simple web project' deployment can be on any web.
 ## Copy Right
-	All rights reserved for Gil
+	All rights reserved After stash
