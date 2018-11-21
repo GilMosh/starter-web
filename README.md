@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 ## Intruduction
 ## Purpose
 ## How To Contribute
- Do stuff and be nice
+ Please fork this repository and then issue Pull Requests for review.
 ## Deployment
 	This is a simple web project' deployment can be on any web.
 ## Copy Right
