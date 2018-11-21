@@ -2,6 +2,7 @@
 
 	This repository is for showing how Git and GitHub work
 	Adding a line for rebasing master, than more changes for myfeature too
+	Emergency fix after stash
 ## Intruduction
 ## Purpose
 ## How To Contribute
